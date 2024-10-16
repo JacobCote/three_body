@@ -1,4 +1,4 @@
-# tree_body
+# three_body
 ## aproximation of the numeric solution to the n-body problem
 
 
